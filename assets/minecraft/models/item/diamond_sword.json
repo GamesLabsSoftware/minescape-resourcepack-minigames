@@ -1,0 +1,26 @@
+{
+	"parent": "item/stone",
+	"overrides": [
+		{
+			"predicate": {
+				"damage": 0.000640204866,
+				"damaged": 0
+			},
+			"model": "block/lobby/bench"
+		},
+		{
+			"predicate": {
+				"damage": 0.001280409731,
+				"damaged": 0
+			},
+			"model": "item/lobby/logo/lom"
+		},
+		{
+			"predicate": {
+				"damage": 0.001920614597,
+				"damaged": 0
+			},
+			"model": "item/lobby/logo/ba"
+		}
+	]
+}

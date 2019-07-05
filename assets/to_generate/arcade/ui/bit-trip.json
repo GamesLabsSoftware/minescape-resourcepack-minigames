@@ -1,0 +1,27 @@
+{
+	"textures": {
+		"layer0": "arcade/ui/bit-trip"
+	},
+	"size": {
+		"x": 2,
+		"y": 2
+	},
+	"item": {
+	  "en": {
+	    "name": "&eBit-trip",
+			"description": [
+				"&7Race other players whilst the ground falls behind you.",
+				"&7The last player alive or the first one to reach the finish line wins.",
+				"",
+				"&7Votes: &f%votes%",
+				"",
+				"&aVote for this game",
+				"&aUse &e%orbs% orbs &ato &eforce &athis game"
+			]
+	  },
+	  "models": {
+	    "java-edition": "item/arcade/vote/game-bit-trip"
+	  },
+	  "type": "normal"
+	}
+}

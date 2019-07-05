@@ -1,0 +1,27 @@
+{
+	"textures": {
+		"layer0": "arcade/ui/ghost-run"
+	},
+	"size": {
+		"x": 2,
+		"y": 2
+	},
+	"item": {
+		"en": {
+	    "name": "&eGhost-run",
+			"description": [
+				"&7A player ghost is let free in an area. He/She infects the ground when walking.",
+				"&7Be the last one standing or catch all the runners to win!",
+				"",
+				"&7Votes: &f%votes%",
+				"",
+				"&aVote for this game",
+				"&aUse &e%orbs% orbs &ato &eforce &athis game"
+			]
+	  },
+	  "models": {
+	    "java-edition": "item/arcade/vote/game-ghost-run"
+	  },
+	  "type": "normal"
+	}
+}

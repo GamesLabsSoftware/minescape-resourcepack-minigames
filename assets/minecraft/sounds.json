@@ -1,4 +1,15 @@
 {
+	"all.sounds.nice-one-joey": {
+		"sounds": [
+			"all/sounds/nice-one-joey"
+		]
+	},
+	"all.sounds.laugh": {
+		"sounds": [
+			"all/sounds/laugh"
+		]
+	},
+
   "music.game": {
     "replace": true,
     "sounds": [

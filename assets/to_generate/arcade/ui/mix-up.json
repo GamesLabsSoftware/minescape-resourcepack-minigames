@@ -1,0 +1,27 @@
+{
+	"textures": {
+		"layer0": "arcade/ui/mix-up"
+	},
+	"size": {
+		"x": 2,
+		"y": 2
+	},
+	"item": {
+		"en": {
+	    "name": "&eMix-up",
+			"description": [
+				"&7Stay on the right color every round.",
+				"&7The last player alive wins.",
+				"",
+				"&7Votes: &f%votes%",
+				"",
+				"&aVote for this game",
+				"&aUse &e%orbs% orbs &ato &eforce &athis game"
+			]
+	  },
+	  "models": {
+	    "java-edition": "item/arcade/vote/game-mix-up"
+	  },
+	  "type": "normal"
+	}
+}
